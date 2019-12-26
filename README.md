@@ -1,3 +1,3 @@
 # hello-world
 
-sup yall
+System.out.println(5 * 6);
